@@ -1,8 +1,4 @@
-A test implementation of the Brazilian CPF Validation (WTTD training)
-=================================================================
-
-[![Build Status](https://travis-ci.org/Jaimenms/python-br-cpf-tester.svg?branch=master)](https://travis-ci.org/Jaimenms/python-br-cpf-tester)
-[![Code Health](https://landscape.io/github/Jaimenms/python-br-cpf-tester/master/landscape.svg?style=flat)](https://landscape.io/github/Jaimenms/python-br-cpf-tester/master)
+# A test implementation of the Brazilian CPF Validation (WTTD training)
 
 This is a test implementatipon of the Brazilian CPF Validation as part of
 the "Mão na Massa" proposal of the 4th module of Welcome to the Django
@@ -14,6 +10,10 @@ individual and by the Federal Internal Revenue Department database.
 
 This number is currently formated as XXX.XXX.XXX-DD where X are digits and D
 are check digits.
+
+[![Build Status](https://travis-ci.org/Jaimenms/python-br-cpf-tester.svg?branch=master)](https://travis-ci.org/Jaimenms/python-br-cpf-tester)
+[![Code Health](https://landscape.io/github/Jaimenms/python-br-cpf-tester/master/landscape.svg?style=flat)](https://landscape.io/github/Jaimenms/python-br-cpf-tester/master)
+
 
 ## Como desenvolver?
 
