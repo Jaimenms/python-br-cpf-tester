@@ -1,4 +1,4 @@
-# A test implementation of the Brazilian CPF Validation (WTTD training)
+# Brazilian CPF Tester  (WTTD training)
 
 This is a test implementatipon of the Brazilian CPF Validation as part of
 the "Mão na Massa" proposal of the 4th module of Welcome to the Django
