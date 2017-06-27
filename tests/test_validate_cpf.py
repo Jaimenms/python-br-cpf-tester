@@ -2,7 +2,7 @@
 # testing in general, but rather to support the `find_packages` example in
 # setup.py that excludes installing the "tests" package
 import pytest
-from braziliancpftests import BrazilianCpfValidationTests
+from brcpftester import BrazilianCpfValidationTests
 
 
 def test_success():

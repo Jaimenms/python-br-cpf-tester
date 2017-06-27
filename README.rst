@@ -1,6 +1,9 @@
 A test implementation of the Brazilian CPF Validation (WTTD training)
 =================================================================
 
+[![Build Status](https://travis-ci.org/Jaimenms/python-br-cpf-tester.svg?branch=master)](https://travis-ci.org/Jaimenms/python-br-cpf-tester)
+[![Code Health](https://landscape.io/github/Jaimenms/python-br-cpf-tester/master/landscape.svg?style=flat)](https://landscape.io/github/Jaimenms/python-br-cpf-tester/master)
+
 This is a test implementatipon of the Brazilian CPF Validation as part of
 the "Mão na Massa" proposal of the 4th module of Welcome to the Django
 training (http://welcometothedjango.com.br/).
